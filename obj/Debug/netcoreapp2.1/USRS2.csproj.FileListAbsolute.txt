@@ -1,0 +1,11 @@
+D:\GRSU\USRS2\USRS2\obj\Debug\netcoreapp2.1\USRS2.csprojAssemblyReference.cache
+D:\GRSU\USRS2\USRS2\obj\Debug\netcoreapp2.1\USRS2.csproj.CoreCompileInputs.cache
+D:\GRSU\USRS2\USRS2\obj\Debug\netcoreapp2.1\USRS2.AssemblyInfoInputs.cache
+D:\GRSU\USRS2\USRS2\obj\Debug\netcoreapp2.1\USRS2.AssemblyInfo.cs
+D:\GRSU\USRS2\USRS2\bin\Debug\netcoreapp2.1\USRS2.deps.json
+D:\GRSU\USRS2\USRS2\bin\Debug\netcoreapp2.1\USRS2.runtimeconfig.json
+D:\GRSU\USRS2\USRS2\bin\Debug\netcoreapp2.1\USRS2.runtimeconfig.dev.json
+D:\GRSU\USRS2\USRS2\bin\Debug\netcoreapp2.1\USRS2.dll
+D:\GRSU\USRS2\USRS2\bin\Debug\netcoreapp2.1\USRS2.pdb
+D:\GRSU\USRS2\USRS2\obj\Debug\netcoreapp2.1\USRS2.dll
+D:\GRSU\USRS2\USRS2\obj\Debug\netcoreapp2.1\USRS2.pdb
